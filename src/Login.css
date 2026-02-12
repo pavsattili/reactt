@@ -1,0 +1,8 @@
+#Main{
+    display: grid;
+    background-color: blue;
+    color: chocolate;
+    padding: 50px;
+    margin-left: 200px;
+    width: 50;
+}
